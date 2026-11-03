@@ -4,7 +4,7 @@
   "scrapers": [
     {
       "id": "animesalt",
-      "name": "AnimeSalt",
+      "name": "Tamilsalt",
       "description": "AnimeSalt anime streaming with multi-language audio (Hindi, Tamil, Telugu, English) and high-quality direct HLS streams",
       "version": "1.0.0",
       "author": "Nuvio Team",
